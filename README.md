@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - 🌱 I’m currently working @Accenture
 - ⚡ Fun fact: I love 3d printing
-- 🤔 Data scientist needed for a marketing related startup
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nicholas-lo-piccolo-935382140/)
 
   
